@@ -2,14 +2,14 @@
 baseurl:          ""
 url:              https://kk99corn.github.io
 
-title:            이지혜, 프론트엔드 웹 개발자
-description:      Freelance Front-end Web Developer
-author:           이지혜 Jihye Lee
-email:            ghe.lee19@gmail.com
+title:            박민우, Back-end 웹 개발자
+description:      Back-end Web Developer
+author:           박민우 Minwoo Park
+email:            hahahoho5915@gmail.com
 lang:             ko
 image:            /assets/image/common/feature.png # og_image, fb 고해상도 1200x630px, 8MB 이하
 
-github_username:  designmeme
+github_username:  kk99corn
 copyright:        © Jihye Lee
 
 # Front matter defaults
